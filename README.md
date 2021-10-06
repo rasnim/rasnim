@@ -10,6 +10,7 @@
 
 >Technical Part
 - Machine Learning / Deep Learning / Reinforcement Learning
+- Machine Vision
 - Unreal engine 4
 
 <div align=center>
